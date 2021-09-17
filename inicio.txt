@@ -1,0 +1,1 @@
+El 17 de septiembre en medio del entrenamiento de senasoft iniciamos este repositorio para adaptar el uso de GIT como herramienta de control de versiones
